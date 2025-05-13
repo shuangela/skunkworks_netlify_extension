@@ -1,8 +1,8 @@
-# Netlify Extension
+# Netlify Extension 
 
 This extension is created using the [Netlify SDK](https://sdk.netlify.com/get-started/introduction/). It is a boilerplate for creating a new extension.
 
-## Scripts
+## Scripts BIANCA WAS HERE 
 
 These are some common scripts you will use when developing your extension. If you want to know what else is possible, [check out the documentation](https://developers.netlify.com/sdk/netlify-sdk-utility-tools-reference/).
 
